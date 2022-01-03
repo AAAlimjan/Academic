@@ -1,16 +1,12 @@
 # Academic Reading
 
-Academic Reading 📖 
+论文：
 
-- MIT Dspace:   http://dspace.mit.edu/
+[阿力木江· 阿布拉.大数据时代下少数民族管理工作研究[J].营销界（理论与实践）,2020(9):0162-0163.](http://qikan.cqvip.com/Qikan/Article/Detail?id=1000002704619&from=Qikan_Search_Index)
 
-- Kurbanjan Barat@Oxford: https://www2.physics.ox.ac.uk/contacts/people/kuerbanjiang
+------
 
-- MIT classics：http://classics.mit.edu/index.html
 
-  ------
-
-  
 
 - [Deep Quantum Geometry of Matrices](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.011069)
 
